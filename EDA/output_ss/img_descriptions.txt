@@ -1,0 +1,31 @@
+Image Descriptions:
+All these images are dynamic which can provide the hovering and zooming facility.
+overview_alltime-it is the overlapped graph of OTI, OLI and ATI with time for All the values.
+overview_lastweek-it is the overlapped graph of OTI, OLI and ATI for with time last week.
+PFL_alltime-it is the overlapped graph of PFL1, PFL2, PFL3 for all the values.
+PFL_lastwk-it is the overlapped graph of PFL1, PFL2, PFL3 for last week.
+VLs_alltime-it is the overlapped graph of VL12, VL23, VL31 with time for all the values.
+VLs_lastwk-it is the overlapped graph of VL12, VL23, VL31 with time for last week.
+
+In the below graphs all the values which cross the thresholds are being highlighted and shows the number of such occurences for last week along with the graph.
+oti_alltime-it is the variation of oti with time for all the values.
+ati_alltime-it is the variation of ati with time for all the values.
+oli_alltime-it is the variation of oli with time for all the values.
+PFL1_alltime-it is the variation of pfl1 with time for all the values.
+PFL2_alltime-it is the variation of pfl2 with time for all the values.
+PFL3_alltime-it is the variation of pfl3 with time for all the values.
+VL12_alltime-it is the variation of vl12 with time for all the values.
+VL23_alltime-it is the variation of vl23 with time for all the values.
+VL31_alltime-it is the variation of vl31 with time for all the values.
+
+oti_lastwk-it is the variation of oti with time for Last week.
+ati_lastwk-it is the variation of ati with time for Last week.
+oli_lastwk-it is the variation of oli with time for Last week.
+PFL1_lastwk-it is the variation of pfl1 with time for Last week.
+PFL2_lastwk-it is the variation of pfl2 with time for Last week.
+PFL3_lastwk-it is the variation of pfl3 with time for Last week.
+VL12_lastwk-it is the variation of vl12 with time for Last week.
+VL23_lastwk-it is the variation of vl23 with time for Last week.
+VL31_lastwk-it is the variation of vl31 with time for Last week.
+
+load_arima-it is the arima prediction for KW for the next 24 hours by using the previous week data. It will display a warning message if any abnormality is expected in the predicted values. 
